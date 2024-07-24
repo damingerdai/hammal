@@ -12,8 +12,8 @@ devDependencies:
     specifier: ^2.0.5
     version: 2.0.5
   typescript:
-    specifier: ^3.9.5
-    version: 3.9.5
+    specifier: ^5.0.0
+    version: 5.5.4
   wrangler:
     specifier: ^3.60.0
     version: 3.60.0(@cloudflare/workers-types@2.0.0)
@@ -726,9 +726,9 @@ packages:
     resolution: {integrity: sha512-xNvxJEOUiWPGhUuUdQgAJPKOOJfGnIyKySOc09XkKsgdUV/3E2zvwZYdejjmRgPCgcym1juLH3226yA7sEFJKQ==}
     dev: true
 
-  /typescript@3.9.5:
-    resolution: {integrity: sha512-hSAifV3k+i6lEoCJ2k6R2Z/rp/H3+8sdmcn5NrS3/3kE7+RyZXm9aqvxWqjEXHAd8b0pShatpcdMTvEdvAJltQ==}
-    engines: {node: '>=4.2.0'}
+  /typescript@5.5.4:
+    resolution: {integrity: sha512-Mtq29sKDAEYP7aljRgtPOpTvOfbwRWlS6dPRzwjdE+C0R4brX/GUyhHSecbHMFLNBLcJIPt9nl9yG5TZ1weH+Q==}
+    engines: {node: '>=14.17'}
     hasBin: true
     dev: true
 
